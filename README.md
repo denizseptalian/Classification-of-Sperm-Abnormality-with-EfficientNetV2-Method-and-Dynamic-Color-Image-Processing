@@ -2,8 +2,8 @@
 This project applies the EfficientNetV2 method for classifying sperm abnormalities using dynamic color image processing. It is designed to assist in medical and reproductive health research by accurately identifying sperm morphology abnormalities from microscopic images.
 ![Demo](demo.gif)  
 
-## 📌 Overview  
-This project utilizes **EfficientNetV2** with **dynamic color image processing** to classify sperm abnormalities. It is developed for medical research, fertility diagnostics, and AI-assisted reproductive health analysis.  
+## 📌 Dataset Overview  
+https://drive.google.com/drive/folders/16hbBcatOvKeJTLjj9njB-HbBkC2Z1Km3?usp=sharing
 
 ## 🚀 Features  
 - **EfficientNetV2-Based Model** for high-accuracy sperm abnormality classification  
